@@ -2,9 +2,9 @@
 
 :root {
   --color-white: #f3f3f3;
-  --color-darkblue: #1b1b32;
-  --color-darkblue-alpha: rgba(27, 27, 50, 0.8);
-  --color-green: #37af65;
+  --color-darkblue: #2b1b32;
+  --color-darkblue-alpha: rgba(72, 40, 78, 0.8);
+  --color-green: #306845;
 }
 
 *,
@@ -33,7 +33,8 @@ h1 {
 p {
   font-size: 1.125rem;
   color:black;
-  font-size: 20px;
+  font-size: 30px;
+  font-style: italic;
 }
 
 h1,
